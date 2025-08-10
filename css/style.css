@@ -1,14 +1,12 @@
-/* style.css */
-
 /* --- Color Scheme and Global Settings --- */
 :root {
-  --primary-brand-color: #CC5500; /* Burnt Orange */
-  --accent-color: #556B2F;        /* Deep Olive Green */
-  --background-cream: #f3eddf;    /* Your logo's background color */
-  --text-dark-gray: #333333;      /* For main body text */
-  --text-medium-gray: #686868;    /* For subheadings */
-  --heading-color: #556B2F;       /* Deep Olive for headings */
-  --footer-background: #333333;   /* Dark gray footer */
+  --primary-brand-color: #CC5500; 
+  --accent-color: #556B2F;        
+  --background-cream: #f3eddf;    
+  --text-dark-gray: #333333;      
+  --text-medium-gray: #686868;    
+  --heading-color: #556B2F;       
+  --footer-background: #333333;   
   --link-color: #CC5500;
   --link-hover-color: #A34400;
   --card-background: #ffffff;
@@ -243,4 +241,5 @@ h3 { font-size: 1.5rem; color: var(--text-medium-gray); }
   text-align: center;
   padding: 20px 0;
   margin-top: 40px;
+
 }
