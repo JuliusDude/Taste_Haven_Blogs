@@ -57,6 +57,7 @@ cd Taste_Haven_Blogs
 ```
 Or click this link->
 [Taste Haven](https://juliusdude.github.io/Taste_Haven_Blogs/)
+
 ---
 
 ## 🖼️ Screenshot
